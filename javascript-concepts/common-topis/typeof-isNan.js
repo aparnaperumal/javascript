@@ -30,7 +30,7 @@
 // console.log(true === true);
 // console.log(false === true);
 // console.log(false || true);
-console.log(this)
+//console.log(this)
 
 // console.log(1) && console.log(2);
 // console.log(1) || console.log(2)
@@ -38,6 +38,10 @@ console.log(this)
 //console.log(1 && 2)
 //console.log(2 && 1)
 //console.log(1 || 2)
+
+console.log("0" == 0);
+console.log("" == 0);
+console.log("" == "0");
 
 
 
