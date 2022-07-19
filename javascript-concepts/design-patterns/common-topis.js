@@ -1,3 +1,6 @@
+//Credits
+//https://www.dofactory.com/javascript/design-pattern
+
 /* Creational Pattern
 Builder
 Factories

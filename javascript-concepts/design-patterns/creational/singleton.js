@@ -1,3 +1,5 @@
+// Singletons when only one instance is needed.
+
 var singleton = (function() {
     var instance;
     function createInstance(){
