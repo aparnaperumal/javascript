@@ -17,5 +17,5 @@ class Lion extends Animal{
 var animal1 = new Dog();
 var animal2 = new Lion();
 
-console.log(animal1.food());
+//console.log(animal1.food());
 console.log(animal2.food());
