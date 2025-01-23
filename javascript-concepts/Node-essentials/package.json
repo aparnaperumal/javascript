@@ -1,0 +1,16 @@
+{
+  "name": "node-essentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index --time 5"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "tiny-timer": "^1.6.0"
+  }
+}

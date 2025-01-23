@@ -1,0 +1,16 @@
+{
+  "name": "notifications-serviceworkers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "web-push": "^3.6.7"
+  }
+}
